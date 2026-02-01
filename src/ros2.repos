@@ -8,3 +8,7 @@ repositories:
     type: git
     url: https://github.com/ros2/examples.git
     version: ${ROS_DISTRO}
+  aruco_ros:
+    type: git
+    url: https://github.com/pal-robotics/aruco_ros.git
+    version: humble-devel
